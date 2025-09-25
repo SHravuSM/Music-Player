@@ -1,1 +1,1 @@
-View: https://somegeete.netlify.app/
+View: https://somegeeta.netlify.app/
